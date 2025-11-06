@@ -1,11 +1,13 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: cv
-nav: true
-nav_order: 10
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+permalink: /cv/
+description:
+nav: 10
 ---
+[Download CV](/assets/pdf/cv.pdf)
+
+<br>
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/cv.pdf" width="100%" 
+height="600" type="application/pdf"></object>
