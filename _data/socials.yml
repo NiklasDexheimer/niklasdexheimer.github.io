@@ -1,19 +1,19 @@
 # Social media links for Niklas Dexheimer
 # Icons appear automatically for supported keys
 
-- name: Email
+- name: email
   email: n.dexheimer@utwente.nl
 
-- name: GitHub
+- name: github_username
   github_username: NiklasDexheimer
 
-- name: LinkedIn
+- name: linkedin_username
   linkedin_username: Niklas-Dexheimer
 
-- name: ResearchGate
+- name: research_gate_profile
   research_gate_profile: Niklas-Dexheimer
 
-- name: Google Scholar
+- name: scholar_userid
   scholar_userid: alkRkpIAAAAJ
 
 # Optional socials you can uncomment and fill in:
