@@ -5,7 +5,7 @@ permalink: /cv/
 description:
 nav: 10
 ---
-[Download CV](/assets/pdf/cv.pdf)
+[Download CV](/assets/pdf/cv_anonym.pdf)
 
 <br>
 
