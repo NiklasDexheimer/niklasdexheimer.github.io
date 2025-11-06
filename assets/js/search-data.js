@@ -437,39 +437,39 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-',
-        title: '',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("mailto:%6E.%64%65%78%68%65%69%6D%65%72@%75%74%77%65%6E%74%65.%6E%6C", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://github.com/NiklasDexheimer", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/Niklas-Dexheimer", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.researchgate.net/profile/Niklas-Dexheimer/", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://scholar.google.com/citations?user=alkRkpIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
