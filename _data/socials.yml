@@ -1,14 +1,24 @@
 # Social media links for Niklas Dexheimer
-# Comments must have a space before #
+# Inline comments must have a space before #
 
 email: n.dexheimer@utwente.nl  # your email address
-github_username: NiklasDexheimer
-linkedin_username: Niklas-Dexheimer
-research_gate_profile: Niklas-Dexheimer
-scholar_userid: alkRkpIAAAAJ
+github_username: NiklasDexheimer  # your GitHub username
+linkedin_username: Niklas-Dexheimer  # your LinkedIn user name
+research_gate_profile: Niklas-Dexheimer  # your ResearchGate profile
+scholar_userid: alkRkpIAAAAJ  # your Google Scholar ID
 
-# Optional:
-# x_username: YourXUsername
+# Optional socials (uncomment and fill in if you want them to appear)
+# x_username: YourXUsername  # Twitter / X handle
 # orcid_id: YourOrcidID
 # facebook_id: YourFacebookID
 # instagram_id: YourInstagramID
+# kaggle_id: YourKaggleID
+# medium_username: YourMediumUsername
+# blogger_url: YourBloggerURL
+# linkedin_company: YourCompanyName
+# discord_id: YourDiscordID
+# hal_id: YourHALID
+# ieee_id: YourIEEEID
+# dblp_url: YourDBLPURL
+# pinterest_id: YourPinterestID
+# rss_icon: true  # comment out to hide RSS icon
