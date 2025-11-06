@@ -1,23 +1,38 @@
-# this file contains the social media links and usernames of the author
-# the commented lines are the default social media links supported by the template
-# the socials will be displayed in the order they are defined here
+# Social media links for Niklas Dexheimer
+# Icons appear automatically for supported keys
 
 - name: Email
-  email: n.dexheimer@utwente.nl  # your email address
+  email: n.dexheimer@utwente.nl
+
+- name: GitHub
+  github_username: NiklasDexheimer
 
 - name: LinkedIn
-  linkedin_username: Niklas-Dexheimer  # your LinkedIn user name
+  linkedin_username: Niklas-Dexheimer
 
 - name: ResearchGate
-  research_gate_profile: Niklas-Dexheimer  # your profile on ResearchGate
+  research_gate_profile: Niklas-Dexheimer
 
 - name: Google Scholar
-  scholar_userid: alkRkpIAAAAJ  # your Google Scholar ID
+  scholar_userid: alkRkpIAAAAJ
 
-# Additional socials you can uncomment and fill in:
-# - name: GitHub
-#   github_username: yourusername
-# - name: Twitter
-#   x_username: yourusername
+# Optional socials you can uncomment and fill in:
+# - name: Twitter/X
+#   x_username: YourXUsername
 # - name: Orcid
-#   orcid_id: your-orcid-id
+#   orcid_id: YourOrcidID
+# - name: Facebook
+#   facebook_id: YourFacebookID
+# - name: Instagram
+#   instagram_id: YourInstagramID
+# - name: Kaggle
+#   kaggle_id: YourKaggleID
+# - name: Medium
+#   medium_username: YourMediumUsername
+
+# Example of a fully custom social icon:
+# - name: Blog
+#   custom_social:
+#     logo: https://example.com/logo.png
+#     title: "Blog"
+#     url: https://myblog.com
