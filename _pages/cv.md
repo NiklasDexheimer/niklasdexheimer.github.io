@@ -1,13 +1,14 @@
 ---
 layout: page
-title: cv
+title: CV
 permalink: /cv/
-description:
 nav: 10
 ---
+
 [Download CV](/assets/pdf/cv_anonym.pdf)
 
 <br>
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/cv_anonym.pdf" width="100%" 
-height="600" type="application/pdf"></object>
+<object data="/assets/pdf/cv_anonym.pdf" width="100%" height="800" type="application/pdf">
+  <p>Your browser does not support PDFs. You can download it <a href="/assets/pdf/cv.pdf">here</a>.</p>
+</object>
