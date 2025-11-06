@@ -1,38 +1,14 @@
 # Social media links for Niklas Dexheimer
-# Icons appear automatically for supported keys
+# Comments must have a space before #
 
-- name: email
-  email: n.dexheimer@utwente.nl
+email: n.dexheimer@utwente.nl  # your email address
+github_username: NiklasDexheimer
+linkedin_username: Niklas-Dexheimer
+research_gate_profile: Niklas-Dexheimer
+scholar_userid: alkRkpIAAAAJ
 
-- name: github_username
-  github_username: NiklasDexheimer
-
-- name: linkedin_username
-  linkedin_username: Niklas-Dexheimer
-
-- name: research_gate_profile
-  research_gate_profile: Niklas-Dexheimer
-
-- name: scholar_userid
-  scholar_userid: alkRkpIAAAAJ
-
-# Optional socials you can uncomment and fill in:
-# - name: Twitter/X
-#   x_username: YourXUsername
-# - name: Orcid
-#   orcid_id: YourOrcidID
-# - name: Facebook
-#   facebook_id: YourFacebookID
-# - name: Instagram
-#   instagram_id: YourInstagramID
-# - name: Kaggle
-#   kaggle_id: YourKaggleID
-# - name: Medium
-#   medium_username: YourMediumUsername
-
-# Example of a fully custom social icon:
-# - name: Blog
-#   custom_social:
-#     logo: https://example.com/logo.png
-#     title: "Blog"
-#     url: https://myblog.com
+# Optional:
+# x_username: YourXUsername
+# orcid_id: YourOrcidID
+# facebook_id: YourFacebookID
+# instagram_id: YourInstagramID
