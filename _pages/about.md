@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoc in the group of Prof. Johannes Schmidt-Hieber at the Department of Applied Mathematics ([DAMUT](https://www.utwente.nl/en/eemcs/damut/#)) at University of Twente. 
+I am an Assistant Professor at the [[Faculty of Science]https://vu.nl/en/about-vu/faculties/faculty-of-science] Vrije Universiteit Amsterdam. 
 
-Before coming to the University of Twente, I did postdocs with Prof. Claudia Strauch at Aarhus University from 2022 to 2024 and Prof. Sören Christensen at Kiel University in 2022. I obtained my PhD in 2022 at Aarhus University under the supervision of Prof. Claudia Strauch.
+Before coming to Vrije Universiteit Amsterdam, I did postdocs with Prof. Johannes Schmidt-Hieber at University of Twente, Prof. Claudia Strauch at Aarhus University from 2022 to 2024 and Prof. Sören Christensen at Kiel University in 2022. I obtained my PhD in 2022 at Aarhus University under the supervision of Prof. Claudia Strauch.
 
 I am interested in the following research areas:
 Statistics for stochastic processes, biologically plausible learning, theoretical foundations for large language models, data-driven stochastic optimal control, high-dimensional statistics, nonparametric statistics, transfer learning
